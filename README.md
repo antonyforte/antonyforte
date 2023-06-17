@@ -3,7 +3,6 @@
 
 <div align="center">
   <a href="https://github.com/antonyforte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonyforte&layout-compact&theme=synthwave&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyforte&layout=compact&theme=gruvbox"/>
 </div>
   
